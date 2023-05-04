@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498010393518",
+    "project_id": "winong2-47e6f",
+    "storage_bucket": "winong2-47e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498010393518:android:ad5efec685f778d991963f",
+        "android_client_info": {
+          "package_name": "com.daftarpinjollegal2023.winong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498010393518-p15u2cmg176ko7nnvsh0bhjoch50rg52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiP9MR3q850FM37rjDinZyeSYK0AC8P3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498010393518-p15u2cmg176ko7nnvsh0bhjoch50rg52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
